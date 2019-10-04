@@ -5,4 +5,11 @@ Required software packages and toolboxes:
 
 SPM12 https://www.fil.ion.ucl.ac.uk/spm/software/spm12/
 
-The Decodind Toolbox (TDT):
+The Decoding Toolbox (TDT) https://sites.google.com/site/tdtdecodingtoolbox/
+
+
+Scripts
+
+1-level GLM:
+GLM_1stLeve_batch.m
+GLM_1stLevel_CorrectChoices.m
