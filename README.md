@@ -18,6 +18,7 @@ GLM_1stLevel_CorrectChoices.m
 ### Searchlight choice decoding  
 
 Decoding_batch.m
+
 Decoding.m
 
 ### Group-level one-sample t-test
