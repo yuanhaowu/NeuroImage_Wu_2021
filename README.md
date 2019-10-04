@@ -1,5 +1,5 @@
 # DecodingAbstractChoices
-Matlab codes to analyse data from an fMRI experiment on decoding abstract decisions during vibrotactile comaprisons
+Matlab codes to analyse data from an fMRI experiment on decoding abstract decisions during vibrotactile comparisons
 
 Required software packages and toolboxes:
 
