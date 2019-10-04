@@ -7,7 +7,7 @@ SPM12 https://www.fil.ion.ucl.ac.uk/spm/software/spm12/
 
 The Decoding Toolbox (TDT) https://sites.google.com/site/tdtdecodingtoolbox/
 
-Scripts
+## Scripts
 
 1-level GLM:
 
