@@ -7,7 +7,7 @@ SPM12 https://www.fil.ion.ucl.ac.uk/spm/software/spm12/
 
 The Decoding Toolbox (TDT) https://sites.google.com/site/tdtdecodingtoolbox/
 
-Subject-specific decoding accuracy maps are available at https://doi.org/10.6084/m9.figshare.9920111.v2, while the unthresholded statistical map derived from the group-level analysis can be inspected at https://www.neurovault.org/images/256861/
+Subject-specific decoding accuracy maps are available at https://doi.org/10.6084/m9.figshare.9920111.v2, while the unthresholded statistical map derived from the group-level analysis can be inspected at https://www.neurovault.org/collections/5936/
 
 ## Scripts
 
