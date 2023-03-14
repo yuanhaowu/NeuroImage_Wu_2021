@@ -1,5 +1,7 @@
 # Response modality-dependent categorical choice representations for vibrotactile comparisons
-Authors:    Yuan-hao Wu, Lisa A. Velenosi, Felix Blankenburg. 2021 NeuroImage
+Authors:        Yuan-hao Wu, Lisa A. Velenosi, Felix Blankenburg
+
+Published in:   NeuroImage Volume 226, Feb.1., 2021 
 
 https://doi.org/10.1016/j.neuroimage.2020.117592
 
